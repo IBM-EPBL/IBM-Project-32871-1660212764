@@ -10,5 +10,5 @@ print("current humid=",humid)
 if(temp>=50 and humid<35): 
  print("Alarm On") 
 else
-     print("Alarm Off")
-      sleep(2) 
+ print("Alarm Off")
+ sleep(2) 
